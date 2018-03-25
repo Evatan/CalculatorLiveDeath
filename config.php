@@ -1,0 +1,3 @@
+<?php
+$weixin_url="";
+?>
